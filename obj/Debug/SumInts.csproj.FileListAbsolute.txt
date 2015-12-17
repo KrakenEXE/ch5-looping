@@ -1,0 +1,10 @@
+C:\Users\teacher\Desktop\Homework\Chapter 5\ch5Exercises\SumInts\bin\Debug\SumInts.exe.config
+C:\Users\teacher\Desktop\Homework\Chapter 5\ch5Exercises\SumInts\bin\Debug\SumInts.exe
+C:\Users\teacher\Desktop\Homework\Chapter 5\ch5Exercises\SumInts\bin\Debug\SumInts.pdb
+C:\Users\teacher\Desktop\Homework\Chapter 5\ch5Exercises\SumInts\obj\Debug\SumInts.exe
+C:\Users\teacher\Desktop\Homework\Chapter 5\ch5Exercises\SumInts\obj\Debug\SumInts.pdb
+D:\csharp\Chapter 5\ch5Exercises\SumInts\bin\Debug\SumInts.exe.config
+D:\csharp\Chapter 5\ch5Exercises\SumInts\obj\Debug\SumInts.exe
+D:\csharp\Chapter 5\ch5Exercises\SumInts\obj\Debug\SumInts.pdb
+D:\csharp\Chapter 5\ch5Exercises\SumInts\bin\Debug\SumInts.exe
+D:\csharp\Chapter 5\ch5Exercises\SumInts\bin\Debug\SumInts.pdb
